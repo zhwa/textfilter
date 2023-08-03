@@ -1,2 +1,3 @@
 # textfilter
-Simple experimental code to filter text
+
+Simple experimental code to filter text.

@@ -1,0 +1,4 @@
+dash
+langdetect
+profanity_check
+plotly
